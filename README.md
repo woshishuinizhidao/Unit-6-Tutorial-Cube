@@ -1,5 +1,8 @@
 # Unit-6-Tutorial-Cube
 
+Name : Vanessa
+Partner : Cherry
+
 #Cube class 
 public class Cube {
     private int side;
