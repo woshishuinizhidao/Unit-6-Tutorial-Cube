@@ -1,8 +1,5 @@
 # Unit-6-Tutorial-Cube
 
-Name : Vanessa
-Partner : Cherry
-
 #Cube class 
 public class Cube {
     private int side;
@@ -101,3 +98,6 @@ public class CubeTester {
         assertTrue("Ensure that your getSurfaceArea method has been implemented correctly!", surfaceArea == 294);
     }
 }
+
+Name : Vanessa
+Partner : Cherry
